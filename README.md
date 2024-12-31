@@ -3,15 +3,15 @@
 Pixel Runner is a simple and fun 2D endless running game built using Python and Pygame. Jump, dodge obstacles, and survive as long as you can to achieve a high score in this retro-inspired pixel-art game!
 
 Features
-- Dynamic Obstacles**: Dodge animated snails and flies as they appear randomly.
-- Responsive Controls**: Smooth jumping and gravity mechanics for engaging gameplay.
-- Score Tracking**: See how long you can last and aim to beat your best score.
-- Pixel-Art Graphics**: Enjoy a visually appealing retro-style design.
-- Catchy Background Music**: Immerse yourself in the gameplay with upbeat music.
+- Dynamic Obstacles: Dodge animated snails and flies as they appear randomly.
+- Responsive Controls: Smooth jumping and gravity mechanics for engaging gameplay.
+- Score Tracking: See how long you can last and aim to beat your best score.
+- Pixel-Art Graphics: Enjoy a visually appealing retro-style design.
+- Catchy Background Music: Immerse yourself in the gameplay with upbeat music.
 
 Gameplay Instructions
-1. Press the **Spacebar** to start the game.
-2. Jump over obstacles (snails and flies) using the **Spacebar** or by clicking on the player.
+1. Press the Spacebar to start the game.
+2. Jump over obstacles (snails and flies) using the Spacebar or by clicking on the player.
 3. Avoid collisions with obstacles to keep playing.
 4. Your score increases the longer you survive!
 
